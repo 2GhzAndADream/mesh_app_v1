@@ -1,0 +1,8 @@
+android {
+    compileSdkVersion 34
+    defaultConfig {
+        applicationId "com.example.mesh_app_v1"
+        minSdkVersion 21
+        targetSdkVersion 34
+    }
+}
